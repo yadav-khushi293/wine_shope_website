@@ -271,3 +271,35 @@ color: #3f3f3f;
 .parents_3{
   margin: 30px 0px ;
 }
+
+.parents_4{
+  margin: 50px  0px;
+}
+  .line-text {
+      display: flex;
+      align-items: center;
+      text-align: center;
+      margin: auto;
+      width: 60%;
+      font-weight: 500;
+      font-size: 28px;
+      color: #2c2e2f;
+    }
+    .line-text:hover{
+      color: #880e4f;
+    }
+
+    .line-text::before,
+    .line-text::after {
+      content: "";
+      flex: 1;
+      border-bottom: 3px solid #aaa;
+    }
+
+    .line-text:not(:empty)::before {
+      margin-right: .5em;
+    }
+
+    .line-text:not(:empty)::after {
+      margin-left: .5em;
+    }
