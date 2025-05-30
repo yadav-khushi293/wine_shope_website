@@ -451,6 +451,23 @@ color: #3f3f3f;
      .brithday_text:hover{
       color: #880e4f;
      }
+    .Arrivals_button{
+      width: 120px;
+      height: 35px;
+      font-weight: bold;
+      background-color: #880e4f;
+      color: #fff;
+      border-radius: 15px;
+      border: transparent;
+      padding: 11px 0px;
+       margin: 0px 58px;
+    }
+   .Arrivals_button:hover{
+    background-color: #ffc107;
+   } 
+   .parentschild_6_1{
+    margin: 30px 0px;
+   }
     .brothdy_button{
       width: 120px;
       height: 35px;
@@ -460,7 +477,7 @@ color: #3f3f3f;
       border-radius: 15px;
       border: transparent;
       padding: 11px 0px;
-       margin: 0px 56px;
+       margin: 0px 58px;
     }
    .brothdy_button:hover{
     background-color: #ffc107;
@@ -530,4 +547,117 @@ color: #3f3f3f;
 .parents_main_7:hover .Discover_wine_1 {
   animation-play-state: paused;
 }
+  
+
+ .Arrivals_text{
+      text-align: center;
+      color: #353535;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 17px 0px;
+    }
+    .Arrivals_text-1{
+      text-align: center;
+      color: #353535;
+      font-size: 18px;
+      padding-bottom: 10px;
+      font-weight: 500;
+    }
+     .Arrivals_text-1:hover{
+      color: #880e4f;
+     }
+     .Arrivals_text:hover{
+      color: #880e4f;
+     }
+
+     .New_Arrivals-1{
+      width: 20%!important;
+      border: 1px solid rgb(190, 188, 188);
+      border-top: none;
+      border-bottom: none;
+       margin: 40px 0px;
+    }
+
+    .A{
+  
+      width:220px;
+      height:250px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    .A .New_Arrivals_img{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    
+    .A .New_Arrivals_img:hover{
+      transform: scale(1.1);
+    }
+    .New-Arrivals{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .parents_8{
+      margin: 70px 0px;
+    }
+
+    .Beer-Mead_1_text{
+      text-align: center;
+      color: #353535;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 17px 0px;
+    }
+    .Beer-Mead_1_text-1{
+      text-align: center;
+      color: #353535;
+      font-size: 18px;
+      padding-bottom: 10px;
+      font-weight: 500;
+    }
+     .Beer-Mead_1_text-1:hover{
+      color: #880e4f;
+     }
+     .Beer-Mead_1_text:hover{
+      color: #880e4f;
+     }
+     .Beer-Mead_1_img{
+  
+      width:220px;
+      height:250px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    
+    .S{
+      width:220px;
+      height:250px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    .S .Beer-Mead_1_img{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    
+     .S .Beer-Mead_1_img:hover{
+      transform: scale(1.1);
+    }
+
+    .Beer-Mead_1{
+      width: 20%!important;
+      border: 1px solid rgb(190, 188, 188);
+      border-top: none;
+      border-bottom: none;
+       margin: 50px 0px;
+    }
    
+    .Beer-Mead{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
