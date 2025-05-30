@@ -303,3 +303,55 @@ color: #3f3f3f;
     .line-text:not(:empty)::after {
       margin-left: .5em;
     }
+
+
+    .Spotlight_img{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+      margin: 30px 0px;
+
+    }
+    .x{
+      width: 235px;
+      height: 230px;
+      border:1px solid black;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    .x .spimg_1{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    
+    .x .spimg_1:hover{
+      transform: scale(1.2);
+    }
+
+    .v{
+      width: 230px;
+      height: 230px;
+      overflow: hidden;
+      border:1px solid black;
+       object-fit: fill;
+    }
+    .v .spimg_2{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    .v .spimg_2:hover{
+      transform: scale(1.2);
+    }
+    .img_text{
+      text-align: center;
+      font-size: 18px;
+      font-weight: 200;
+      padding: 19px 0px;
+      color: #5e5d5d;
+    }
+    .img_text:hover{
+      color: #880e4f;
+    }
