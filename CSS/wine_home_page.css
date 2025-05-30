@@ -506,6 +506,9 @@ color: #3f3f3f;
       margin: 60px 0px;
     }
 
+    .parents_7{
+  margin: 50px 0px;
+}
 
    .parents_main_7 {
   height: 260px;
@@ -513,9 +516,6 @@ color: #3f3f3f;
   margin: 30px 20px;
   display: flex;
   align-items: center;
-}
-.parents_7{
-  margin: 50px 0px;
 }
 
 .Discover_wine {
@@ -660,4 +660,44 @@ color: #3f3f3f;
       justify-content: center;
       align-items: center;
     }
-    
+
+
+  .Featured_Brand {
+  height: 220px;
+  overflow: hidden;
+  margin: 30px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.Featured_Brand_1 {
+  position: relative;
+  width: 100%;
+  height: inherit;
+}
+
+.Featured_Brand_2{
+  position: absolute;
+  height: inherit;
+  animation: scroll-6 var(--duration, 10s) linear infinite;
+  right: 100%;
+  animation-delay: calc(var(--duration, 10s) / 5 * (5 - var(--k)) * -1);
+}
+
+@keyframes scroll-6{
+  to {
+    right: -250px;
+  }
+}
+
+.Featured_Brand_2> img {
+  height: inherit;
+  width: 250px;
+  border: 1px solid black;
+  font-size: 15px !important;
+}
+.Featured_Brand_1:hover .Featured_Brand_2 {
+  animation-play-state: paused;
+}
+  
+  
