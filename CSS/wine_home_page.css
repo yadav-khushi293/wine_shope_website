@@ -425,18 +425,35 @@ color: #3f3f3f;
   } 
 
     .Birthday_Gifts_1{
-      width: 20%!important;
-      border: 1px solid rgb(190, 188, 188);
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
       border-top: none;
       border-bottom: none;
        margin: 15px 0px;
     }
+    .Birthday_Gifts_2{
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+       margin: 15px 0px;
+    }
+    .Birthday_Gifts_3{
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
+      border-top: none;
+      border-bottom: none;
+      border-right: none;
+       margin: 15px 0px;
+    }
+
     .brithday_text{
       text-align: center;
       color: #353535;
       font-size: 18px;
       font-weight: 500;
-      padding: 17px 0px;
+      padding: 20px 0px;
     }
     .brithday_text-1{
       text-align: center;
@@ -460,7 +477,7 @@ color: #3f3f3f;
       border-radius: 15px;
       border: transparent;
       padding: 11px 0px;
-       margin: 0px 58px;
+       margin: 10px 50px;
     }
    .Arrivals_button:hover{
     background-color: #ffc107;
@@ -477,7 +494,7 @@ color: #3f3f3f;
       border-radius: 15px;
       border: transparent;
       padding: 11px 0px;
-       margin: 0px 58px;
+       margin: 0px 50px;
     }
    .brothdy_button:hover{
     background-color: #ffc107;
@@ -488,7 +505,7 @@ color: #3f3f3f;
 
 .Z{
   
-      width:220px;
+      width:210px;
       height:250px;
       overflow: hidden;
      object-fit: fill;
@@ -503,7 +520,7 @@ color: #3f3f3f;
       transform: scale(1.1);
     }
     .parents_5{
-      margin: 60px 0px;
+      margin: 70px 0px;
     }
 
     .parents_7{
@@ -554,7 +571,7 @@ color: #3f3f3f;
       color: #353535;
       font-size: 18px;
       font-weight: 500;
-      padding: 17px 0px;
+      padding: 20px 0px;
     }
     .Arrivals_text-1{
       text-align: center;
@@ -571,16 +588,34 @@ color: #3f3f3f;
      }
 
      .New_Arrivals-1{
-      width: 20%!important;
-      border: 1px solid rgb(190, 188, 188);
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
       border-top: none;
       border-bottom: none;
+       margin: 40px 0px;
+    }
+    .New_Arrivals-2{
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+       margin: 40px 0px;
+    }
+     
+     .New_Arrivals-3{
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
        margin: 40px 0px;
     }
 
     .A{
   
-      width:220px;
+      width:200px;
       height:250px;
       overflow: hidden;
      object-fit: fill;
@@ -603,12 +638,13 @@ color: #3f3f3f;
       margin: 70px 0px;
     }
 
+
     .Beer-Mead_1_text{
       text-align: center;
       color: #353535;
       font-size: 18px;
       font-weight: 500;
-      padding: 17px 0px;
+      padding: 20px 0px;
     }
     .Beer-Mead_1_text-1{
       text-align: center;
@@ -623,16 +659,9 @@ color: #3f3f3f;
      .Beer-Mead_1_text:hover{
       color: #880e4f;
      }
-     .Beer-Mead_1_img{
-  
-      width:220px;
-      height:250px;
-      overflow: hidden;
-     object-fit: fill;
-    }
     
     .S{
-      width:220px;
+      width:200px;
       height:250px;
       overflow: hidden;
      object-fit: fill;
@@ -648,11 +677,27 @@ color: #3f3f3f;
     }
 
     .Beer-Mead_1{
-      width: 20%!important;
-      border: 1px solid rgb(190, 188, 188);
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
       border-top: none;
       border-bottom: none;
-       margin: 50px 0px;
+       margin: 30px 0px;
+    }
+    .Beer-Mead_2{
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+       margin: 30px 0px;
+    }
+    .Beer-Mead_3{
+      width: 18%!important;
+      border: 1px solid rgb(226, 225, 225);
+      border-top: none;
+      border-bottom: none;
+      border-right: none;
+       margin: 30px 0px;
     }
    
     .Beer-Mead{
@@ -661,7 +706,9 @@ color: #3f3f3f;
       align-items: center;
     }
 
-
+.parents_10{
+  margin: 50px 0px;
+}
   .Featured_Brand {
   height: 220px;
   overflow: hidden;
@@ -700,19 +747,37 @@ color: #3f3f3f;
 }
   
   .Mixed_Case_Collection_1{
-      width: 20%!important;
-      border: 1px solid rgb(190, 188, 188);
+      width: 18%!important;
+      border: 1px solid rgb(227, 224, 224);
       border-top: none;
       border-bottom: none;
-       margin: 40px 0px;
+       margin: 20px 0px;
     }
+    .Mixed_Case_Collection_2{
+      width: 18%!important;
+      border: 1px solid rgb(227, 224, 224);
+      border-top: none;
+      border-bottom: none;
+      border-left: none;
+       margin: 20px 0px;
+    }
+    .Mixed_Case_Collection_1{
+      width: 18%!important;
+      border: 1px solid rgb(227, 224, 224);
+      border-top: none;
+      border-bottom: none;
+       margin: 20px 0px;
+       border-right: none;
+    }
+    
+
 
     .Mixed_Case_Collection_text{
       text-align: center;
       color: #353535;
       font-size: 18px;
       font-weight: 500;
-      padding: 18px 0px;
+      padding: 5px 0px;
     }
     .Mixed_Case_Collection_text_1{
       text-align: center;
@@ -735,8 +800,7 @@ color: #3f3f3f;
       color: #fff;
       border-radius: 15px;
       border: transparent;
-      padding: 11px 0px;
-       margin: 0px 58px;
+       margin: 0px 50px;
     }
    .Mixed_Case_Collection_button:hover{
     background-color: #ffc107;
@@ -744,8 +808,8 @@ color: #3f3f3f;
 
     .u{
   
-      width:220px;
-      height:250px;
+      width:200px;
+      height:240px;
       overflow: hidden;
      object-fit: fill;
     }
@@ -758,20 +822,21 @@ color: #3f3f3f;
      .u .Mixed_Case_Collection_img:hover{
       transform: scale(1.1);
     }
+
     .Mixed_Case_Collection{
       display: flex;
       justify-content: center;
       align-items: center;
     }
     .parent_11{
-      margin: 50px 0px;
+      margin: 70px 0px;
     }
 
 
   .Wine_Accessories {
   height: 220px;
   overflow: hidden;
-  margin: 30px 20px;
+  margin: 40px 20px;
   display: flex;
   align-items: center;
 }
@@ -805,3 +870,51 @@ color: #3f3f3f;
 .Wine_Accessories_1:hover .Wine_Accessories_2 {
   animation-play-state: paused;
 }
+
+  .Blog_1{
+    border: transparent;
+    width:255px;
+
+  }
+  .W{
+      width: 254px;
+      height: 210px;
+      border:1px solid black;
+      overflow: hidden;
+     object-fit: fill;
+  }
+
+    .W .Blog_img{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    
+     .W .Blog_img:hover{
+      transform: scale(1.1);
+    }
+  .blog_text{
+    color: #373738;
+    font-size:15px;
+    text-align: center;
+    padding: 5px 0px;
+  }
+  .blog_text_1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    padding: 15px 0px;
+    color: #303030;
+  }
+  .blog_text_1:hover{
+    color: #880e4f;
+  }
+  .Blog{
+    display: flex;
+   margin: 20px 0px;
+    justify-content: center;
+    gap: 25px;
+  }
+  .parents_13{
+    margin: 60px 0px;
+  }
