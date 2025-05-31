@@ -700,4 +700,70 @@ color: #3f3f3f;
   animation-play-state: paused;
 }
   
+  .Mixed_Case_Collection_1{
+      width: 20%!important;
+      border: 1px solid rgb(190, 188, 188);
+      border-top: none;
+      border-bottom: none;
+       margin: 40px 0px;
+    }
+
+    .Mixed_Case_Collection_text{
+      text-align: center;
+      color: #353535;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 18px 0px;
+    }
+    .Mixed_Case_Collection_text_1{
+      text-align: center;
+      color: #353535;
+      font-size: 18px;
+      padding: 10px 0px;
+      font-weight: 500;
+    }
+     .Mixed_Case_Collection_text_1:hover{
+      color: #880e4f;
+     }
+    .Mixed_Case_Collection_text:hover{
+      color: #880e4f;
+     }
+     .Mixed_Case_Collection_button{
+      width: 120px;
+      height: 35px;
+      font-weight: bold;
+      background-color: #880e4f;
+      color: #fff;
+      border-radius: 15px;
+      border: transparent;
+      padding: 11px 0px;
+       margin: 0px 58px;
+    }
+   .Mixed_Case_Collection_button:hover{
+    background-color: #ffc107;
+   } 
+
+    .u{
   
+      width:220px;
+      height:250px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    .u .Mixed_Case_Collection_img{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    
+     .u .Mixed_Case_Collection_img:hover{
+      transform: scale(1.1);
+    }
+    .Mixed_Case_Collection{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .parent_11{
+      margin: 60px 0px;
+    }
