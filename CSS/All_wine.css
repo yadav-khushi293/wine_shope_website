@@ -453,12 +453,13 @@ hr{
     display: flex;
     gap: 100px;
     margin: 50px 0px;
+    position: relative;
     
 }
 .tenuta-1{
     font-weight: bold;
     color: #252525;
-    padding: 10px 0px;
+    padding-bottom: 15px;
     font-size: 20px;
 }
 .tenuta-1:hover{
@@ -511,3 +512,55 @@ background-color:#e8ecef;
     left: 850px;
    }
    
+.corvina-4,.corvina-5{
+    display: flex;
+     justify-content: start;
+     align-items: center;
+    width: 140px;
+    font-weight: 200px;
+    height: 50px;
+    color: #4a4a4b;
+    padding: 30px 0px;
+    gap: 18px;
+}
+.corvina-6{
+    display: flex;
+     justify-content: start;
+     align-items: center;
+    width: 140px;
+    font-weight: 200px;
+    height: 50px;
+    color: #4a4a4b;
+    padding: 30px 0px;
+    gap: 29px;
+}
+.corvina-4:hover{
+    color: #880e4f;
+}
+.corvina-5:hover{
+    color: #880e4f;
+}
+.corvina-6:hover{
+    color: #880e4f;
+}
+
+.Mrp-2{
+    position: absolute;
+    top: 790px;
+    left: 850px;
+   }
+   .Mrp-3{
+    position: absolute;
+    top: 1170px;
+    left: 850px;
+   }
+   .Mrp-4{
+    position: absolute;
+    top: 1540px;
+    left: 850px;
+   }
+    .Mrp-5{
+    position: absolute;
+    top: 1915px;
+    left: 850px;
+   }
