@@ -205,11 +205,16 @@ li{
 }
  ul{
     width: 230px;
-    height: 220px;
+    height: 160px;
     border: transparent;
     overflow-y:scroll;
     margin: 5px 0;
  }
+ ul::-webkit-scrollbar{
+    background-color:#cd3988;
+    border-radius:10px;
+    width: 10px;
+}
 
 .Wine-1{
     height: auto;
@@ -242,22 +247,39 @@ li{
     overflow-y: scroll;
     margin: 6px 0;
 }
+.winwe_2::-webkit-scrollbar{
+    background-color:#cd3988;
+    border-radius:10px;
+    width: 10px;
+}
 .Grape_2{
     width: 230px;
-    height: 180px;
+    height: 150px;
     border: transparent;
     overflow-y: scroll;
     overflow-x: hidden;
     margin: 6px 0;
 }
+.Grape_2::-webkit-scrollbar{
+    background-color:#cd3988;
+    border-radius:10px;
+    width: 10px;
+}
+
 .Brand_2{
     width: 230px;
-    height: 180px;
+    height: 150px;
     border: transparent;
     overflow-y: scroll;
     overflow-x: hidden;
     margin: 6px 0;
 }
+.Brand_2::-webkit-scrollbar{
+    background-color:#cd3988;
+    border-radius:10px;
+     width: 10px;
+}
+
 
 .All_Wines_1{
     font-weight: 500;
@@ -312,6 +334,7 @@ li{
     border-right: none;
     padding-top: 30px;
     gap: 40px;
+    position: relative;
 }
 
 .allwine_item{
@@ -329,3 +352,162 @@ li{
 hr{
     margin: 15px 0px;
 }
+
+.red_wine{
+    height: 270px;
+    width: 130px;
+}
+.tenuta-4{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    margin: 10px 0px;
+    border-radius: 10px;
+}
+.tenuta-text-4{
+    border: 1px solid #c1c1c2;
+    width: 80px;
+    height: 35px;
+     padding: 6px 25px;
+     background-color: #eaecf1;
+     font-weight: bold;
+       font-size: 17px;
+       border-bottom-right-radius: 15px;
+}
+.tenuta-text-3{
+    border: transparent;
+    width: 80px;
+    height: 35px;
+    text-align: center;
+    border: 1px solid #c1c1c2;
+    border-right: none;
+     padding: 6px 25px;
+     color: #880e4f;
+      border-top-left-radius: 15px;
+
+}
+
+.tenuta-3{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    margin: 10px 0px;
+    border-radius: 15px;
+}
+.tenuta-text-1{
+    border: 1px solid #c1c1c2;
+    width: 80px;
+    height: 35px;
+     padding: 6px 25px;
+     background-color: #eaecf1;
+     font-weight: bold;
+     font-size: 17px; 
+     border-bottom-right-radius: 15px;
+      
+}
+.tenuta-text{
+    border: transparent;
+    width: 80px;
+    height: 35px;
+    text-align: center;
+    border: 1px solid #c1c1c2;
+    border-right: none;
+     padding: 6px 15px;
+     color: #880e4f;
+     border-top-left-radius: 10px;
+}
+
+
+.tenuta-2{
+    display: flex;
+    gap: 20px;
+}
+.corvina,.corvina-1,.corvina-2{
+    display: flex;
+     justify-content: start;
+     align-items: center;
+    width: 120px;
+    font-weight: 200px;
+    height: 50px;
+    color: #4a4a4b;
+    padding: 10px 0px;
+    gap: 15px;
+}
+.corvina-2:hover{
+    color: #880e4f;
+}
+.corvina-1:hover{
+    color: #880e4f;
+}
+.corvina:hover{
+    color: #880e4f;
+}
+.corvina-1{
+    padding: 40px 0px;
+}
+.italy{
+    display: flex;
+    gap: 100px;
+    margin: 50px 0px;
+    
+}
+.tenuta-1{
+    font-weight: bold;
+    color: #252525;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.tenuta-1:hover{
+    color: #880e4f;
+}
+
+.brothdy_button{
+      width: 135px;
+      height: 36px;
+      font-weight: bold;
+      background-color: #880e4f;
+      color: #fff;
+      border-radius: 15px;
+      border: transparent;
+      padding: 11px 0px;
+       margin: 0px 50px;
+    }
+   .brothdy_button:hover{
+    background-color: #ffc107;
+   } 
+   .marp_1{
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 15px;
+   }
+   .k{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .add{
+    display: flex;
+    font-size: 20px;
+    width: 120px;
+    border: 1px solid  #c1c1c2;
+    font-weight: bolder;
+    text-align: center;
+   }
+   .add-1,.add-2{
+    border: 1px solid  #c1c1c2;
+    width: 50px;
+      padding: 5px 0px;
+   }
+   .add-2{
+background-color:#e8ecef;
+   }
+   .Mrp{
+    position: absolute;
+    top: 420px;
+    left: 850px;
+   }
+   
