@@ -160,7 +160,9 @@ span{
 
 .parents_3{
     border: 1px solid #cfcfcf;
+    border-left: none;
     border-top: none;
+    border-bottom: none;
     height: auto;
     width: 20%;
     margin: 30px 0px;
@@ -185,6 +187,7 @@ h2{
 .wine_type{
   border: 1px solid #cfcfcf;
     height: auto;
+    border-left: none;
     border-right: none;
 }
 .wine_type_1{
@@ -218,15 +221,18 @@ li{
      border: 1px solid #ece9e9;
     height: auto;
      border-right: none;
+      border-left: none;
 }
 .Brand{
    border: 1px solid #ece9e9;
     height: auto;
+     border-left: none;
      border-right: none;
 }
 .Farming{
        border: 1px solid #ece9e9;
     height: auto;
+     border-left: none;
      border-right: none;
 }
 .winwe_2{
@@ -251,4 +257,75 @@ li{
     overflow-y: scroll;
     overflow-x: hidden;
     margin: 6px 0;
+}
+
+.All_Wines_1{
+    font-weight: 500;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+.items{
+    font-weight: bold;
+}
+.icon_img{
+   width: 25px;
+   height: 20px;
+}
+.grid_img{
+    width: 25px;
+   height: 20px;
+}
+.sort{
+    display: flex;
+     border: 1px solid #d5d2d2;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 35px;
+    gap: 10px;
+}
+.grid_v{
+     display: flex;
+     border: 1px solid #d5d2d2;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 35px;
+    gap: 10px;
+}
+.grid_text{
+    color: #32393e;
+}
+
+.parents_4{
+    width: 65%;
+    margin: 30px 0px;
+}
+
+
+.parents_2{
+    display: flex;
+    justify-content: center;
+    border: 1px solid  rgb(222, 216, 216);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 30px;
+    gap: 40px;
+}
+
+.allwine_item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 370px;
+}
+.w{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+hr{
+    margin: 15px 0px;
 }
