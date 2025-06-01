@@ -62,7 +62,7 @@ span{
 
     .tooltip .tooltiptext {
       visibility: hidden;
-      width: 100px;
+      width: 95px;
     background: linear-gradient(45deg,#4a148c,#880e4f);
       color: #fff;
       text-align: center;
@@ -996,7 +996,7 @@ color: #3f3f3f;
     }
     .parents_14{
       background-color:#ffcc25;
-      height: 120px;
+      height: 130px;
       text-align: center;
       padding: 20px 0px;
     }
@@ -1013,3 +1013,33 @@ color: #3f3f3f;
         color: #201b00;
         font-weight:500;
     } 
+    .parents_15{
+      display: flex;
+      justify-content: space-evenly;
+      padding: 60px 0px;
+      gap: 60px;
+      background-color: #dbdbdb;
+
+    }
+    .footer_text{
+       font-weight:550;
+       font-size: large;
+         color: #414141;
+         padding-bottom: 15px;
+     }
+   li{
+    padding: 3px 0px;
+    color: #515151;
+   }
+    li:hover{
+      color: #880e4f;
+     }
+     .footer_text_2{
+       font-weight:550;
+       padding-bottom: 19px;
+       font-size: large;
+       color: #414141;
+     }
+     .footer_text_2:hover{
+        color: #880e4f;
+      }
