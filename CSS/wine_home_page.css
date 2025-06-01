@@ -1027,6 +1027,9 @@ color: #3f3f3f;
          color: #414141;
          padding-bottom: 15px;
      }
+        .footer_text:hover{
+      color: #880e4f;
+     }
    li{
     padding: 3px 0px;
     color: #515151;
@@ -1043,3 +1046,27 @@ color: #3f3f3f;
      .footer_text_2:hover{
         color: #880e4f;
       }
+      .parents16_img{
+        width: 190px;
+        height: 19px;
+      }
+    .parents_16_pow{
+      display: flex;
+    }
+    .parents-16{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      gap: 300px;
+      height: 60px;
+
+    }
+    .power-1{
+      font-weight: bold;
+      color: black;
+    }
+    .parents-16_text,.Powered_text{
+      font-size: 15px;
+       color: #202020;
+    }
+    
