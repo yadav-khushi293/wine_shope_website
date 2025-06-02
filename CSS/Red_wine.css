@@ -295,9 +295,11 @@ li{
     font-weight: 500;
     font-size: 35px;
     padding-bottom: 20px;
+    color: #462b2f;
 }
 .items{
     font-weight: bold;
+    color: #2c313b;
 }
 .icon_img{
    width: 25px;
