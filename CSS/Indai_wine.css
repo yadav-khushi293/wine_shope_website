@@ -217,16 +217,10 @@ li{
 }
 .Country_2{
     width: 230px;
-    height: 180px;
-    border: transparent;
-    overflow-y:scroll;
+    height: 50px;
     margin: 5px 0;
 }
-.Country_2::-webkit-scrollbar{
-    background-color:#bb71a4;
-    width: 8px;
-    border-radius: 10px;
-}
+
 .Wine-1{
     height: auto;
 }
