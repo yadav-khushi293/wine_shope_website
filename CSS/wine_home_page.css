@@ -231,6 +231,11 @@ font-size: 19px;
 color: #3f3f3f;
  font-weight: 525;
 }
+.S2{
+  font-size: 19px;
+color: #3f3f3f;
+ font-weight: 525;
+}
 .winebutton-1:before {
   content: "";
   position: absolute;
@@ -345,7 +350,7 @@ color: #3f3f3f;
     .v .spimg_2:hover{
       transform: scale(1.2);
     }
-    .img_text{
+    .img_text,.img_text_1{
       text-align: center;
       font-size: 18px;
       font-weight: 200;
@@ -353,6 +358,9 @@ color: #3f3f3f;
       color: #5e5d5d;
     }
     .img_text:hover{
+      color: #880e4f;
+    }
+    .img_text_1:hover{
       color: #880e4f;
     }
 
@@ -1070,3 +1078,352 @@ color: #3f3f3f;
        color: #202020;
     }
     
+
+
+    @media (min-width: 481px) and (max-width: 840px)
+    {
+       .wine_parkimg{
+        width: 200px;
+        
+       }
+
+    .parents_section_1 {
+    gap: 40px;
+   
+
+     }
+      
+     .newwine {
+    font-size: 12px;
+    font-weight: bold;
+    color: #6c6c6c;
+}
+
+.button-1 {
+    font-size: 12px;
+    width: 50px;
+}
+.winebutton-1 {
+    width: 12em;
+}
+
+.S2{
+  font-size: 14px;
+   font-weight: 500;
+}
+
+ .x{
+      width: 200px;
+      height: 160px;
+      border:1px solid black;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    .x .spimg_1{
+      height: inherit;
+      width: inherit;
+      transition: 0.5s ease;
+    }
+    
+    .x .spimg_1:hover{
+      transform: scale(1.2);
+    }
+
+ .v,.img_text_1{
+  display: none;
+     
+    }
+    .Spotlight_img {
+    gap: 25px;
+    margin: 30px 0px;
+}
+
+.Gifting_wine_img {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 90%;
+    padding: 30px 0px;
+    gap: 30px;
+}
+.Gift_text {
+    font-size: 20px;
+    padding: 15px 0px;
+    color: #5e5d5d;
+   
+}
+
+.browse_button {
+  margin: 0px 65px;
+}
+
+.browse_button:hover {
+  font-size: 20px;
+}
+
+.parentschild_6_1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+  }
+
+   
+    .Birthday_Gifts_3,.New_Arrivals-3,.Beer-Mead_3,.Mixed_Case_Collection_3{
+      display: none;
+    }
+    
+    .Birthday_Gifts_2{
+         width: 100% !important;
+         border-left: 2px solid rgb(234, 232, 232);
+    }
+    .Birthday_Gifts_1{
+        width: 100% !important;
+    }
+    .brothdy_button {
+    margin: 0px 91px;
+}
+
+.Z{
+  
+      width:320px;
+      height:330px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+
+     .New-Arrivals{
+      display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    }
+    .New_Arrivals-2{
+          width: 100% !important;
+           border-left: 2px solid rgb(234, 232, 232);
+    }
+    .New_Arrivals-1{
+      width: 100% !important;
+    }
+    .Arrivals_button {
+    margin: 10px 93px;
+   }
+
+    .A{
+  
+      width:300px;
+      height:320px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+
+    .Beer-Mead{
+       display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    }
+    .Beer-Mead_2{
+      width: 100% !important;
+       border-left: 2px solid rgb(234, 232, 232);
+    }
+    .Beer-Mead_1{
+      width: 100% !important;
+    }
+
+     .S{
+      width:320px;
+      height:330px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+.Mixed_Case_Collection{
+       display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    }
+
+    .Mixed_Case_Collection_2{
+      width: 100% !important;
+    }
+    .Mixed_Case_Collection_1{
+      width: 100% !important;
+    }
+    .Mixed_Case_Collection_button {
+   
+    margin: 0px 98px;
+   }
+
+    .u{
+  
+      width:320px;
+      height:340px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+   
+    .Blog {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    gap: 20px;
+    padding: 30px 0px;
+}
+.footer-1>ul>li,.footer_text{
+  display: none;
+}
+.parents_15 {
+    display: flex;
+    justify-content:center;
+    padding: 30px 0px;
+    gap: 0px;
+    background-color: #dbdbdb;
+    height: 80px;
+}
+.footer-1{
+  display: flex;
+  gap: 5px;
+}
+
+
+    .parents_7{
+  margin: 30px 0px;
+}
+
+   .parents_main_7 {
+  height: 150px;
+  margin: 20px 20px;
+}
+
+.Discover_wine_1> img {
+  width: 185px;
+}
+
+.parents_10{
+  margin: 30px 0px;
+}
+  .Featured_Brand {
+  height: 150px;
+  margin: 20px 20px;
+}
+
+
+
+.Featured_Brand_2> img {
+  width: 185px;
+
+}
+
+
+
+.Wine_Accessories {
+  height: 150px;
+  margin: 20px 20px;
+}
+
+
+.Wine_Accessories_2> img {
+   width: 185px;
+}
+.Wine_Accessories_1:hover .Wine_Accessories_2 {
+  animation-play-state: paused;
+}
+ }
+
+
+
+
+
+ @media (max-width: 420px)
+ {
+
+  .k> input {
+     display: none;
+  }
+  .wine_parkimg{
+    width: 150px;
+  }
+    .wine_button_multipage , .wine_button_multipage-1,.wine_button_multipage-2{
+ display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 0px;
+}
+ .S1,.S2{
+  font-size: 15px;
+ }
+  .parents_section_1 {
+    display: flex;
+    justify-items: start;
+    padding: 0px !important;
+    grid-template-columns: repeat(2,1fr);
+    gap: 25px;
+    align-content: start;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: none;
+    height: 75px;
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.parents_wine_menu_list{
+   display: none;
+}
+
+.winebutton-1 {
+    width: 7em;
+    height: 3em;
+}
+
+.parents{
+    font-size: 15px;
+}
+
+.tooltip_img {
+    width: 40px;
+    height: 39px;
+}
+.parents_sectionchid_3 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+.content-us {
+    font-size: 18px;
+}
+
+.Spotlight_img {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items: start;
+    align-content: center;
+    gap: 10px;
+    margin: 30px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+
