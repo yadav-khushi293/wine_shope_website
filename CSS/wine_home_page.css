@@ -1388,14 +1388,14 @@ color: #3f3f3f;
   gap: 0px;
 }
  .S1,.S2{
-  font-size: 15px;
+  font-size: 14px;
  }
   .parents_section_1 {
     display: flex;
     justify-items: start;
     padding: 0px !important;
     grid-template-columns: repeat(2,1fr);
-    gap: 25px;
+    gap: 10px;
     align-content: start;
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: none;
@@ -1407,7 +1407,7 @@ color: #3f3f3f;
 }
 
 .winebutton-1 {
-    width: 7em;
+    width: 110px;
     height: 3em;
 }
 
@@ -1500,8 +1500,8 @@ color: #3f3f3f;
     }
     .Z{
       
-      width: 200px;
-      height: 220px;
+      width: 150px;
+      height: 190px;
     }
      
     .brothdy_button{
@@ -1682,7 +1682,7 @@ color: #3f3f3f;
     height: 19px;
 }
 .tooltiptext{
-  display: none;
+  display: none !important;
 }
 
 
