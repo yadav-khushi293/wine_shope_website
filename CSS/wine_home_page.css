@@ -1388,7 +1388,7 @@ color: #3f3f3f;
   gap: 0px;
 }
  .S1,.S2{
-  font-size: 14px;
+  font-size: 13px;
  }
   .parents_section_1 {
     display: flex;
@@ -1407,7 +1407,7 @@ color: #3f3f3f;
 }
 
 .winebutton-1 {
-    width: 110px;
+    width: 105px;
     height: 3em;
 }
 
@@ -1581,8 +1581,8 @@ color: #3f3f3f;
 
     .u{
   
-      width:190px;
-      height:300px;
+      width:170px;
+      height:200px;
     }
 
     .Blog {
@@ -1609,7 +1609,7 @@ color: #3f3f3f;
 }
 .Blog_1 {
     border: transparent;
-     width: 100px;
+     width: 150px;
 }
 
 
@@ -1651,7 +1651,7 @@ color: #3f3f3f;
 }
 
 .Discover_wine_1> img {
-  width: 120px;
+  width: 100px;
 }
 
 .parents_10{
@@ -1665,7 +1665,7 @@ color: #3f3f3f;
 
 
 .Featured_Brand_2> img {
-  width: 120px;
+  width: 100px;
 
 }
 
