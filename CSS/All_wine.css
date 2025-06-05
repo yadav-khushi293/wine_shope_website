@@ -849,29 +849,29 @@ background-color:#e8ecef;
 }
  .Mrp{
     top: 500px;
-    left: 160px;
+    left: 100px;
    }
 
    .Mrp-2{
    
     top: 930px;
-    left: 160px;
+    left: 100px;
    }
    
    .Mrp-3{
    top: 1370px;
-    left: 160px;
+    left: 100px;
    }
 
    .Mrp-4{
     top: 1799px;
-    left: 160px;
+    left: 100px;
    }
    
    .Mrp-5{
      
      top: 2210px;
-    left: 160px;
+    left: 100px;
    }
 
    .parents-16 {
@@ -926,6 +926,7 @@ background-color:#e8ecef;
   font-size: 10px !important;
   padding: 7px 0px !important;
 }
+
 .tenuta-1{
   font-size: 15px;
 }
