@@ -730,3 +730,79 @@ background-color:#e8ecef;
        color: #202020;
     }
     
+
+      @media (min-width: 481px) and (max-width: 840px){
+
+.parents_section_1 {
+    display: flex;
+     gap: 60px;
+}
+
+.parents_sectionchid_3 {
+    gap: 30px;
+}
+
+.button-1 {
+    width: 70px;
+    height: 40px;
+    font-size: 13px;
+}
+.newwine{
+  font-size: 13px;
+} 
+
+.wine_parkimg{
+  width: 200px;
+}
+
+.parents_4 {
+    width: 90%;
+    padding: 30px 0px;
+    margin: auto;
+}
+
+.allwine_item {
+    gap: 325px;
+}
+
+.Mrp{
+    position: absolute;
+    top: 420px;
+    left: 450px;
+   }
+
+.Mrp-2{
+  left: 450px;
+}
+
+.Mrp-3{
+   left: 450px;
+}
+
+.Mrp-4{
+   left: 450px;
+}
+.Mrp-5{
+   left: 450px;
+}
+
+
+
+    .parents_3{
+      display: none;
+    }
+
+.parents_2{
+   
+    padding-top: 30px;
+    gap: 0px;
+}
+.parents-16 {
+    gap: 200px;
+}
+
+
+
+
+      }
+    
