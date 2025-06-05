@@ -794,9 +794,157 @@ background-color:#e8ecef;
 .parents-16 {
     gap: 200px;
 }
+}
 
 
+ @media (max-width: 420px){
 
 
-      }
+   .parents_3{
+      display: none;
+    }
+     
+    .parents_4 {
+    width: 90%;
+    padding: 30px 0px;
+    margin: auto;
+}
+
+
+.top_heading{
+  font-size: 15px;
+}
+.tooltip{
+  display: none !important;
+}
+.wine_parkimg{
+    width: 170px;
+  }
+.k>input,.parents_wine_menu_list{
+  display: none;
+}
+
+.parents_section_1 {
+  gap: 30px;
+  height: 80px;
+}
+.corvina-1,.corvina-5,.corvina-4 {
+    padding: 20px 0px;
+}
+
+.red_wine {
+    height: 265px;
+    width: 115px;
+}
+ .Mrp{
+    top: 500px;
+    left: 100px;
+   }
+
+   .Mrp-2{
+   
+    top: 930px;
+    left: 100px;
+   }
+   
+   .Mrp-3{
+   top: 1370px;
+    left: 100px;
+   }
+
+   .Mrp-4{
+    top: 1799px;
+    left: 100px;
+   }
+   
+   .Mrp-5{
+     
+     top: 2210px;
+    left: 100px;
+   }
+
+   .parents-16 {
+    gap: 0px;
+}
+  .footer-1>ul>li,.footer_text{
+    display: none;
+  }
+  .footer-1{
+    display: flex;
+  }
+
+  .parents_15 {
+    display: flex;
+    padding: 12px 0px;
+    height: 40px;
+    gap: 0px;
+}
+.footer_text_2{
+  font-size: 11px;
+}
+   .italy{
+    display: flex;
+    gap: 30px;
+    margin: 50px 0px;
+    height: 330px !important;
+    position: relative;
+}
+.parents_14{
+  height: 110px;
+}
+.parents-16{
+      display: grid;
+      justify-items:center;
+      align-content: center;
+      gap: 5px;
+      padding: 30px 0px;
+      height: 60px;
+
+    }
+
+.allwine_item{
+  gap: 1px !important;
+}
+.w{
+  gap: 0px;
+}
+.brothdy_button{
+  margin: 0px 10px;
+  width: 110px;
+  height: 30px;
+  font-size: 10px !important;
+  padding: 7px 0px !important;
+}
+
+.tenuta-1{
+  font-size: 15px;
+}
+.tenuta-2 {
+    display:grid;
+    gap: 5px;
+    width: 25%;
+}
+
+.tenuta-4{
+  display: none;
+}
+
+.sort {
+    display: flex;
+    width: 136px;
+    height: 32px;
+    gap: 0px;
+    font-size: 13px;
+}
+
+.grid_v {
+   display: flex;
+    width: 100px;
+    height: 32px;
+    gap: 0px;
+    font-size: 13px;
+}
+
+
+ }
     
