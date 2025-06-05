@@ -876,6 +876,7 @@ background-color:#e8ecef;
   .parents_15 {
     display: flex;
     padding: 5px 0px;
+      justify-content: center;
     gap: 0px;
     height: 20px !important;
 }
