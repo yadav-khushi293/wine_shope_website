@@ -1619,10 +1619,10 @@ color: #3f3f3f;
 .parents_15 {
     display: flex;
     justify-content:center;
-    padding: 30px 0px;
+    padding: 16px 0px;
     gap: 0px;
     background-color: #dbdbdb;
-    height: 50px;
+    height: 40px !important;
 }
 .footer_text_2{
   font-size: 10px;
@@ -1633,11 +1633,10 @@ color: #3f3f3f;
 }
 
 .parents-16 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-     gap: 0px;
-     padding: 0px 10px;
+    display: grid;
+    justify-items: center;
+    align-content: center;
+     gap: 5px;
     height: 60px;
 }
 
@@ -1680,13 +1679,17 @@ color: #3f3f3f;
 }
 
 .parents16_img {
-    width: 100px;
-    height: 19px;
+        width: 140px;
+        height: 19px;
 }
+
+
 .tooltip{
   display: none !important;
 }
-
+.parents_14{
+  height: 113px;
+}
 
  }
 
