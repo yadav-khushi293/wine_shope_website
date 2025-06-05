@@ -914,7 +914,7 @@ background-color:#e8ecef;
     }
 
 .allwine_item{
-  gap: 10px;
+  gap: 1px !important;
 }
 .w{
   gap: 0px;
@@ -940,7 +940,21 @@ background-color:#e8ecef;
   display: none;
 }
 
+.sort {
+    display: flex;
+    width: 136px;
+    height: 32px;
+    gap: 0px;
+    font-size: 13px;
+}
 
+.grid_v {
+   display: flex;
+    width: 100px;
+    height: 32px;
+    gap: 0px;
+    font-size: 13px;
+}
 
 
  }
