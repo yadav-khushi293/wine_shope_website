@@ -1690,7 +1690,32 @@ color: #3f3f3f;
 
  }
 
+ @media (min-width: 1366px){
 
+  .brothdy_button,.Arrivals_button,.Mixed_Case_Collection_button   {
+           margin: 0px 68px;
+}
+
+.Wine_Accessories {
+  height: 240px;
+  margin: 20px 20px;
+}
+
+
+.Wine_Accessories_2> img {
+    width: 280px;
+}
+ .A,.S,.Z,.u{
+  
+      width:250px;
+      height:300px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+
+    
+
+ }
 
 
 
