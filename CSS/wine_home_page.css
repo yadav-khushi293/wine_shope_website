@@ -1702,22 +1702,126 @@ color: #3f3f3f;
 }
 
 .Wine_Accessories {
-  height: 240px;
+  height:280px;
   margin: 20px 20px;
 }
 
 
 .Wine_Accessories_2> img {
-    width: 290px;
+    width: 300px;
 }
  .A,.S,.Z,.u{
-  
       width:250px;
       height:300px;
       overflow: hidden;
      object-fit: fill;
+    } 
+
+    .x,.M{
+      width: 300px;
+      height: 290px;
+      border:1px solid black;
+      overflow: hidden;
+     object-fit: fill;
     }
-    
+
+    .v{
+      width: 300px;
+      height: 290px;
+      overflow: hidden;
+      border:1px solid black;
+       object-fit: fill;
+    }
+    .line-text{
+      font-size: 40px;
+    }
+   .img_text_1,.img_text,.Gift_text,.brithday_text,.brithday_text-1,.Beer-Mead_1_text,.Beer-Mead_1_text-1,.Mixed_Case_Collection_text,.Mixed_Case_Collection_text_1  {
+    font-size: 23px;
+}
+.Arrivals_text,.Arrivals_text-1{
+  font-size: 21px;
+}
+
+
+.browse_button {
+    width: 122px;
+    height: 48px;
+    font-size: 18px;
+    margin: 0px 90px;
+}
+
+.brothdy_button,.Arrivals_button,.Mixed_Case_Collection_button {
+    width: 130px;
+    height: 49px;
+    font-size: 15px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 18px 0px;
+    margin: 13px 65px;
+}
+  .parents_main_7 {
+  height: 280px;
+}
+
+
+.Discover_wine_1> img {
+  width: 300px;
+}
+
+ .Featured_Brand {
+ height: 280px;
+}
+
+.Featured_Brand_2> img {
+  width: 300px;
+}
+.W{
+  width: 290px;
+  height: 250px;
+}
+.Blog {
+    gap: 30px;
+}
+.blog_text {
+    font-size: 17px;
+    padding: 7px 0px;
+}
+ .Blog_1{
+    border: transparent;
+    width:290px;
+  }
+  .blog_text_1{
+    font-size:20px;
+  }
+  li{
+    font-size: 25px;
+    padding: 3px 0px;
+  }
+  .footer_text_2 {
+    font-weight: 550;
+    padding-bottom: 18px;
+    font-size: 24px;
+    color: #414141;
+}
+.footer_text{
+   font-size: 24px;
+}
+.Powered_text,.parents-16_text {
+    font-size: 20px;
+    color: #202020;
+}
+.parents16_img {
+    width: 197px;
+    height: 22px;
+}
+.Follow_us {
+    font-size: 31px;
+    color: #201b00;
+    font-weight: 500;
+}
+.parents_14_imge {
+    padding: 34px 0px;
+}
  }
 
  
