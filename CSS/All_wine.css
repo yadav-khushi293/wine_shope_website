@@ -802,6 +802,7 @@ background-color:#e8ecef;
     gap: 200px;
 }
 }
+
 @media (min-width: 441px) and (max-width: 770px){
   .k {
     display: grid !important;
