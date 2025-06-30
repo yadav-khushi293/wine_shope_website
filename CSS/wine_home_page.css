@@ -1348,6 +1348,23 @@ color: #3f3f3f;
 
 
 
+ @media (max-width: 320px){
+    .winebutton-1 {
+        width: 84px !important;
+        height: 3em;
+    }
+    .A,.S,.u{
+      width: 150px !important;
+    }
+        .Arrivals_button,.Mixed_Case_Collection_button,.brothdy_button  {
+        margin: 9px 16px !important;
+    }
+    .W{
+      width: 150px !important;
+    }
+ }
+
+
 
 
  @media (max-width: 420px)
