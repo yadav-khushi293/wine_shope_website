@@ -2189,7 +2189,41 @@ color: #3f3f3f;
  }
 
  
+  @media (min-width: 841px) and (max-width: 1050px){
+    .parents_section_1 {
+    gap: 69px !important;
+  
+}
+.winebutton-1 {
+    --color: #ffc107;
+    font-family: inherit;
+    display: inline-block;
+    background-color: #fff;
+    width: 16em !important;
+  }
+  .W{
+   width: 220px !important;
+   height: 200px;
+  }
+  .Blog_1 {
+    border: transparent;
+    width: 200px !important;
+}
+.Blog {
+    gap: 32px !important;
+}
+.M{
+  width: 230px !important;
+}
+.Gifting_wine_img {
+    gap: 0px !important;
+}
+.Spotlight_img {
 
+    gap: 15px !important;
+    margin: 30px 0px;
+}
+}
 
  
 
