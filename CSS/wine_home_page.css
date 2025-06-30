@@ -1712,6 +1712,353 @@ color: #3f3f3f;
 
  }
 
+  @media (min-width: 421px) and (max-width: 440px){
+    .img_text, .img_text_1{
+    font-size: 15px;
+}
+.line-text{
+  font-size: 20px;
+}
+.Gift_text{
+  font-size: 15px !important;
+}
+.brithday_text, .brithday_text-1,
+.Arrivals_text,.Arrivals_text-1,
+.Mead_1_text,.Mixed_Case_Collection_text,.Mixed_Case_Collection_text_1,.Beer-Mead_1_text,.Beer-Mead_1_text  {
+  font-size: 14px;
+}
+.brothdy_button,.Arrivals_button,.Mixed_Case_Collection_button{
+  font-size: 12px;
+}
+.img_text, .img_text_1 {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 200;
+    padding: 19px 0px;
+    color: #5e5d5d;
+}
+  .k> input {
+     display: none;
+  }
+  .wine_parkimg{
+    width: 150px;
+  }
+    .wine_button_multipage , .wine_button_multipage-1,.wine_button_multipage-2{
+ display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 0px;
+}
+ .S1,.S2{
+  font-size: 13px;
+ }
+  .parents_section_1 {
+    display: flex;
+    justify-items: start;
+    padding: 0px !important;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+    align-content: start;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: none;
+    height: 75px;
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.parents_wine_menu_list{
+   display: none;
+}
+
+.winebutton-1 {
+    width: 105px;
+    height: 3em;
+}
+
+.parents{
+    font-size: 15px;
+}
+
+.tooltip_img {
+    width: 40px;
+    height: 39px;
+}
+.parents_sectionchid_3 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+.content-us {
+    font-size: 18px;
+}
+
+.Spotlight_img {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items: start;
+    align-content: start;
+    gap: 10px;
+    margin:auto;
+    padding-top: 20px;
+    width: 80%;
+}
+
+ .x{
+      width: 150px;
+      height: 160px;
+    }
+    
+     .v{
+      width: 150px;
+      height:160px;
+    }
+
+.Gifting_wine_img {
+     display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items: center;
+    align-content: center;
+    gap: 10px;
+    margin:auto;
+    padding-top: 20px;
+    width:80%;
+}
+
+.M{
+      width: 150px;
+      height: 160px;
+      border:1px solid black;
+      overflow: hidden;
+     object-fit: fill;
+    }
+    .browse_button {
+    margin: 0px 20px;
+}
+
+.Gift_text {
+    font-size: 18px;
+    padding: 10px 0px;
+}
+
+.parentschild_6_1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+  }
+
+   
+    .Birthday_Gifts_3,.New_Arrivals-3,.Beer-Mead_3,.Mixed_Case_Collection_3{
+      display: none;
+    }
+    
+    .Birthday_Gifts_2{
+         width: 100% !important;
+         border-left: 2px solid rgb(234, 232, 232);
+    }
+    .Birthday_Gifts_1{
+        width: 100% !important;
+    }
+    .Z{
+      
+      width: 150px;
+      height: 190px;
+    }
+     
+    .brothdy_button{
+      margin: 0px 20px;
+    }
+
+  .New-Arrivals{
+      display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    }
+    .New_Arrivals-2{
+          width: 100% !important;
+           border-left: 2px solid rgb(234, 232, 232);
+    }
+    .New_Arrivals-1{
+      width: 100% !important;
+    }
+    .Arrivals_button {
+    margin: 10px 30px;
+   }
+
+    .A{
+  
+      width:170px;
+      height:200px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+
+.Beer-Mead{
+       display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    }
+    .Beer-Mead_2{
+      width: 100% !important;
+       border-left: 2px solid rgb(234, 232, 232);
+    }
+    .Beer-Mead_1{
+      width: 100% !important;
+    }
+
+     .S{
+      width:170px;
+      height:200px;
+      overflow: hidden;
+     object-fit: fill;
+    }
+
+
+.Mixed_Case_Collection{
+       display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:center;
+    align-content: center;
+    margin: auto;
+    width: 80%;
+    }
+
+    .Mixed_Case_Collection_2{
+      width: 100% !important;
+    }
+    .Mixed_Case_Collection_1{
+      width: 100% !important;
+    }
+    .Mixed_Case_Collection_button {
+   
+    margin: 0px 25px;
+   }
+
+    .u{
+  
+      width:170px;
+      height:200px;
+    }
+
+    .Blog {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-items:start;
+    align-content: start;
+    margin: auto;
+    width: 80%;
+    gap: 15px;
+    padding: 30px 0px;
+}
+
+ .W{
+      width: 160px;
+      height: 150px;
+  }
+
+.blog_text{
+  font-size: 8px;
+}
+.blog_text_1{
+  font-size: 12px;
+}
+.Blog_1 {
+    border: transparent;
+     width: 150px;
+}
+
+
+.footer-1>ul>li,.footer_text{
+  display: none;
+}
+.parents_15 {
+    display: flex;
+    justify-content:center;
+    padding: 5px 0px;
+    gap: 0px;
+    background-color: #dbdbdb;
+    height: 20px !important;
+}
+.footer_text_2{
+  font-size: 8px;
+}
+.footer-1{
+  display: flex;
+  gap: 5px;
+}
+
+.parents-16 {
+    display: grid;
+    justify-items: center;
+    align-content: center;
+     gap: 5px;
+    height: 60px;
+}
+
+   .parents_7{
+  margin: 30px 0px;
+}
+
+   .parents_main_7 {
+  height: 100px;
+  margin: 20px 20px;
+}
+
+.Discover_wine_1> img {
+  width: 100px;
+}
+
+.parents_10{
+  margin: 30px 0px;
+}
+  .Featured_Brand {
+  height: 100px;
+  margin: 20px 20px;
+}
+
+
+
+.Featured_Brand_2> img {
+  width: 100px;
+
+}
+
+.Wine_Accessories {
+  height: 120px;
+  margin: 20px 20px;
+}
+
+
+.Wine_Accessories_2> img {
+   width: 120px;
+}
+
+.parents16_img {
+        width: 140px;
+        height: 19px;
+}
+
+
+.tooltip{
+  display: none !important;
+}
+.parents_14{
+  height: 113px;
+}
+
+  }
+
+
+
+
+
  @media (min-width: 1366px){
 
   .brothdy_button,.Arrivals_button,.Mixed_Case_Collection_button   {
