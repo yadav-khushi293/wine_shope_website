@@ -839,7 +839,28 @@ background-color:#e8ecef;
 }
 
 
-
+ @media (min-width: 841px) and (max-width: 1040px){
+  .parents_section_1 {
+    display: flex;
+    justify-content: center;
+    gap: 69px;
+}
+.allwine_item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+}
+.k {
+    display: grid
+;
+    justify-items: center;
+    gap: 10px;
+}
+.brothdy_button {
+  margin: 0px 0px ;
+}
+ }
 
 
 
