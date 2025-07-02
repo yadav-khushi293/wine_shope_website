@@ -1007,31 +1007,22 @@ background-color:#e8ecef;
     align-items: center;
 }
 .Mrp{
-    top: 500px;
+    top: 520px;
     left: 150px !important;
    }
 
    .Mrp-2{
    
-    top: 970px !important;
+    top: 1000px !important;
     left: 160px !important;
    }
    
    .Mrp-3{
-   top: 1450px !important;
+   top: 1500px !important;
     left: 160px !important;
    }
 
-   .Mrp-4{
-    top: 1910px !important;
-    left: 160px !important;
-   }
    
-   .Mrp-5{
-     
-     top: 2390px !important;
-    left: 160px !important;
-   }
 
     .italy {
         display: flex;
@@ -1071,6 +1062,8 @@ background-color:#e8ecef;
 }
   }
 
+
+
   @media (min-width: 421px) and (max-width: 440px){
     .parents_3{
       display: none;
@@ -1109,31 +1102,22 @@ background-color:#e8ecef;
     width: 115px;
 }
  .Mrp{
-    top: 500px;
-    left: 100px;
+    top: 520px;
+    left: 170px !important;
    }
 
    .Mrp-2{
    
-    top: 930px;
-    left: 100px;
+    top: 950px;
+    left: 170px !important;
    }
    
    .Mrp-3{
-   top: 1370px;
-    left: 100px;
+   top: 1380px;
+    left: 170px !important;
    }
 
-   .Mrp-4{
-    top: 1799px;
-    left: 100px;
-   }
    
-   .Mrp-5{
-     
-     top: 2210px;
-    left: 100px;
-   }
 
    .parents-16 {
     gap: 0px;
