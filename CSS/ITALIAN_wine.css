@@ -1080,8 +1080,7 @@ background-color:#e8ecef;
     font-size: 12px !important;
 }
 .corvina-4, .corvina-5 {
-    display: flex
-;
+    display: flex;
     justify-content: start;
     align-items: center;
     width: 140px;
@@ -1090,7 +1089,10 @@ background-color:#e8ecef;
     color: #4a4a4b;
     padding: 30px 0px;
     gap: 10px !important
+    
+    
 }
+
   }
 
   @media (min-width: 421px) and (max-width: 440px){
