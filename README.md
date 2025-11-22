@@ -43,32 +43,34 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 
 
   <!-- Left Side Images -->
-  <div style="display: flex; flex-direction: column; gap: 60px;">
-    <img 
-      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225304.png?raw=true"
-      width="500" 
-      height="400"
-    />
-    <img 
-      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225432.png?raw=true"
-      width="500" 
-      height="400"
-    />
-  </div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
 
-  <!-- Right Side Images -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img 
-      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225717.png?raw=true"
-      width="500" 
-      height="400"
-    />
-    <img 
-      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225852.png?raw=true"
-      width="500" 
-      height="400"
-    />
-  </div>
+  <img 
+    src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225304.png?raw=true"
+    width="500" 
+    height="400"
+  />
+
+  <img 
+    src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225432.png?raw=true"
+    width="500" 
+    height="400"
+  />
+
+  <img 
+    src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225717.png?raw=true"
+    width="500" 
+    height="400"
+  />
+
+  <img 
+    src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225852.png?raw=true"
+    width="500" 
+    height="400"
+  />
+
+</div>
+
 
 
 <hr>
