@@ -46,18 +46,18 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 <table>
   <tr>
     <td>
-      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225304.png?raw=true" width="300" height="250">
+      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225304.png?raw=true" width="500" height="400">
     </td>
     <td>
-      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225432.png?raw=true" width="300" height="250">
+      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225432.png?raw=true" width="500" height="400">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225717.png?raw=true" width="300" height="250">
+      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225717.png?raw=true" width="500" height="400">
     </td>
     <td>
-      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225852.png?raw=true" width="300" height="250">
+      <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225852.png?raw=true" width="500" height="400">
     </td>
   </tr>
 </table>
