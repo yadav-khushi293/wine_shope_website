@@ -70,7 +70,7 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
     />
   </div>
 
-</div>
+
 <hr>
 
 <h2>👨‍💻 Author</h2>
