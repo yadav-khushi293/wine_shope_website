@@ -40,7 +40,7 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 🍷 Product Listing Page  
 <br>
 <br>
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+
 
   <!-- Left Side Images -->
   <div style="display: flex; flex-direction: column; gap: 60px;">
