@@ -65,7 +65,7 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 
 <h2>👨‍💻Created By</h2>
 
-Your Name:-
+Name:-
 YADAV KHUSHI  (Frontend Developer)
 
 
