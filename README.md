@@ -4,17 +4,20 @@ A fully responsive and visually appealing Wine Shop Website built using only HTM
 This is a solo project focused on clean design, smooth layout, and an elegant user experience.
 <hr>
 
-🚀 Features
+<h2>✨ Features</h2>
 
-• 🎨 Attractive UI Design – Modern and elegant look
+• 🎨 Modern & Attractive Design
 
-• 📱 Fully Responsive – Works perfectly on Mobile, Tablet, and Desktop
+•📱 Fully Responsive Layout
 
-• 🧭 Easy Navigation – Smooth and simple user interface
+•🧭 Easy and Smooth Navigation
 
-• 🍾 Product Display – Neat and organized presentation of wine products
+•🍾 Clean Wine Product Showcase
 
-• ⚡ Lightweight & Fast – Built only with HTML & CSS, ensuring fast load times
+•⚡ Fast & Lightweight (HTML + CSS)
+
+•👤 Solo Developer Project
+
 <hr>
 🛠️ Tech Stack
 <br>
@@ -25,34 +28,55 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 ✨CSS3 (Flexbox / Grid / Responsive Design)
 
 <hr>
-🖼️ Website Preview Images<br>
---------------------------------
-<br>
-⭐ Home Page  
-<br>
-<br>
-<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-21%20225537.png?raw=true"/>
-------------------------------------------------------------------------------------------------------------------------
-<br>
-⭐ Product Listing Page  
-<br>
-<br>
-<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-21%20225658.png?raw=true"/>
-------------------------------------------------------------------------------------------------------------------------
-<br>
-⭐ Login Page  
-<br>
-<br>
-<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-21%20225913.png?raw=true"/>
--------------------------------------------------------------------------------------------------------------------------
-<br>
-⭐ Cart Page 
-<br>
-<br>
-<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20143744.png?raw=true"/>
--------------------------------------------------------------------------------------------------------------------------
+<h2>🖼️ Website Preview Images<br></h2>
 
+<br>
+🍷 Home Page  
+<br>
+<br>
+<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225216.png?raw=true"/>
+------------------------------------------------------------------------------------------------------------------------
+<br>
+🍷 Product Listing Page  
+<br>
+<br>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+
+  <!-- Left Side Images -->
+  <div style="display: flex; flex-direction: column; gap: 60px;">
+    <img 
+      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225304.png?raw=true"
+      width="500" 
+      height="400"
+    />
+    <img 
+      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225432.png?raw=true"
+      width="500" 
+      height="400"
+    />
+  </div>
+
+  <!-- Right Side Images -->
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <img 
+      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225717.png?raw=true"
+      width="500" 
+      height="400"
+    />
+    <img 
+      src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225852.png?raw=true"
+      width="500" 
+      height="400"
+    />
+  </div>
+
+</div>
 <hr>
 
-📌 Project Overview
+<h2>👨‍💻 Author</h2>
+
+Your Name:-
+YADAV KHUSHI  (Frontend Developer)
+
+
 
