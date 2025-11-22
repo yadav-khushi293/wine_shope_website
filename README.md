@@ -30,16 +30,12 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 <hr>
 <h2>🖼️ Website Preview Images<br></h2>
 
-<br>
-🍷 Home Page  
-<br>
-<br>
+
+<h3>🍷Home Page </h3> 
 <img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20225216.png?raw=true"/>
 ------------------------------------------------------------------------------------------------------------------------
-<br>
-🍷 Product Listing Page  
-<br>
-<br>
+
+<h3>🍷Product Listing Page  </h3>
 
 
   <!-- Left Side Images -->
