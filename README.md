@@ -23,3 +23,36 @@ This is a solo project focused on clean design, smooth layout, and an elegant us
 <br>
 <br>
 ✨CSS3 (Flexbox / Grid / Responsive Design)
+
+<hr>
+🖼️ Website Preview Images<br>
+--------------------------------
+<br>
+⭐ Home Page  
+<br>
+<br>
+<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-21%20225537.png?raw=true"/>
+------------------------------------------------------------------------------------------------------------------------
+<br>
+⭐ Product Listing Page  
+<br>
+<br>
+<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-21%20225658.png?raw=true"/>
+------------------------------------------------------------------------------------------------------------------------
+<br>
+⭐ Login Page  
+<br>
+<br>
+<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-21%20225913.png?raw=true"/>
+-------------------------------------------------------------------------------------------------------------------------
+<br>
+⭐ Cart Page 
+<br>
+<br>
+<img src="https://github.com/yadav-khushi293/khushi/blob/main/Screenshot%202025-11-22%20143744.png?raw=true"/>
+-------------------------------------------------------------------------------------------------------------------------
+
+<hr>
+
+📌 Project Overview
+
